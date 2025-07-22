@@ -56,7 +56,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: '',
+            image: 'https://i.ibb.co/HpzSfBGj/salacak-1.png',
             description: '',
             location: {
                 center: [29.006556304128267,41.02151233076513],
@@ -86,7 +86,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/wrCPxN0K/1-1.jpg',
+            image: 'https://i.ibb.co/n8jHnh7j/salacak2.png',
             description: '',
             location: {
                 center: [29.006556304128267,41.02151233076513],
