@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Salacak Plajı / Salacak Beach',
+    title: 'Kentsel Boşluğun Üretimi: Salacak Plajı / Production of Urban Void: Salacak Beach',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -56,7 +56,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/HpzSfBGj/salacak-1.png',
+            image: 'https://i.ibb.co/DHyFsTx9/sal1.png',
             description: '',
             location: {
                 center: [29.006556304128267,41.02151233076513],
@@ -65,7 +65,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -83,10 +83,10 @@ var config = {
         },
         {
             id: '3',
-            alignment: 'centered',
+            alignment: 'full',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/n8jHnh7j/salacak2.png',
+            image: 'https://i.ibb.co/MrJT8pH/sal12.png',
             description: '',
             location: {
                 center: [29.006556304128267,41.02151233076513],
@@ -116,7 +116,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/GZxksKR/1-2.jpg',
+            image: 'https://i.ibb.co/yc9X4C3M/sal2.png',
             description: '',
             location: {
                 center: [29.006556304128267,41.02151233076513],
@@ -125,7 +125,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -146,7 +146,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/YBrS8XBN/1-3.jpg',
+            image: 'https://i.ibb.co/nNncv9P0/sal4.png',
             description: '',
             location: {
                 center: [29.006556304128267,41.02151233076513],
