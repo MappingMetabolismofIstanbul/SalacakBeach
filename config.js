@@ -19,7 +19,7 @@ var config = {
     title: 'Kentsel Boşluğun Üretimi: Salacak Plajı / Production of Urban Void: Salacak Beach',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '1',
@@ -151,7 +151,7 @@ var config = {
             location: {
                 center: [29.006556304128267,41.02151233076513],
                 zoom: 18,
-                pitch: 60,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
